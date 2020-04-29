@@ -1,4 +1,4 @@
-package com.shegorat.mvvm.base.base
+package com.shegorat.mvvm.base
 
 class Event<T>(val action: T) {
     var isDispatched = false

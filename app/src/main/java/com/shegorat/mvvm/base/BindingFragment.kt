@@ -1,4 +1,4 @@
-package com.shegorat.mvvm.base.base
+package com.shegorat.mvvm.base
 
 import android.os.Bundle
 import android.view.LayoutInflater
